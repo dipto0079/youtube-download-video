@@ -19,7 +19,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="form-group">
-                        <label class="text-weight"><b>Online Videos Link:</b></label>
+                        <label class="text-weight"><b>Youtube Videos Link:</b></label>
                         <input type="txt" name="link" class="form-control link" required>
                     </div>
                 </div>
